@@ -2,7 +2,7 @@
   "name": "zeronet-storage-memory",
   "version": "0.0.1-alpha18",
   "description": "ZeroNet filesystem memory storage module",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
